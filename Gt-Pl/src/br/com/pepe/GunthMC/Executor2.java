@@ -16,7 +16,7 @@ public class Executor2 implements CommandExecutor {
 		
 		
 		Player p = (Player)sender;	
-		ServerInfo.serverinfo(p);
+		PluginInfo.plugininfo(p);
 				
 		return false;
 	}
