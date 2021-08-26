@@ -1,8 +1,8 @@
 main: br.com.pepe.GunthMC.Main
-version: 1.2
+version: 1.2.1
 name: Gt-General
 commands:
    GunthMC:
       aliases: [gt, gunthmcv2, comandos, ajuda]
-   ServerInfo:
+   PluginInfo:
       aliases: [svinfo, infosv, sv, helpsv]
