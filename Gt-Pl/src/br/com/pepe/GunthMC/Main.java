@@ -33,7 +33,7 @@ public class Main extends JavaPlugin {
 	
 	public void registerCommands() {
 		getCommand("GunthMC").setExecutor(new Executor());
-		getCommand("ServerInfo").setExecutor(new Executor2());
+		getCommand("PluginInfo").setExecutor(new Executor2());
 	}
 	
 	public String getPrefix() {
