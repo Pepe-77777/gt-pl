@@ -6,3 +6,5 @@
 Acesse o servidor de Minecraft no IP gunthmc.tk
 
 Acesse o Website do servidor [Clicando Aqui!](https://www.gunthmc.tk)
+
+- ESSE PLUGIN NÃO TEM DOWNLOAD POIS É PRIVADO PARA O MEU SERVER.
